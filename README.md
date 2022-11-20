@@ -13,7 +13,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/thamyrislopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamyrislopes&theme=gruvbox_light&show_icons=true"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=thamyrislopes&theme=gruvbox_light&show_icons=true"/>
   <a href="https://github.com/thamyrislopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamyrislopes&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamyrislopes&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
