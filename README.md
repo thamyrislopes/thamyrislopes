@@ -1,7 +1,6 @@
 <h1>Oii! 👋</h1>
 
 - 🔭 Futura desenvolvedora
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: ela/dela
 
 <div dir="auto">
